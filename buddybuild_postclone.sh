@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-mkdir Carthage
+unzip Carthage.zip
